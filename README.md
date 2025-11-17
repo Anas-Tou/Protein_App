@@ -72,7 +72,7 @@ This project is deployed as a Streamlit web app.
 ### 1. Clone the Repository
 
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Anas-Tou/Protein_App.git
 cd protein-app
 
 2.**Install Dependencies**

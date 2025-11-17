@@ -31,7 +31,7 @@ The value of the Mixture-of-Experts (MoE) approach is best shown by comparing th
 | **Specialist 57** | Group 57 (500 rows) | **0.9894** | **1.54** |
 | **Specialist 9** | Group 9 (1086 rows) | **0.9804** | **0.83** |
 | **Specialist 34** | Group 34 (392 rows) | **0.8570** | **0.43** |
-| **"True Generalist"** | Leftovers (318 rows) | 0.4439 | 1.88 |
+| **"True Generalist"** | Leftovers (318 rows) | 0.7439 | 1.88 |
 
 ---
 

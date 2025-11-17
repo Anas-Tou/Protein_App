@@ -68,17 +68,23 @@ This project followed an iterative, analysis-driven approach:
 ## 💻 How to Run the App Locally
 
 This project is deployed as a Streamlit web app.
-
+---
 ### 1. Clone the Repository
-
-
+~~~
 git clone https://github.com/Anas-Tou/Protein_App.git
 cd protein-app
-
-2.**Install Dependencies**
+~~~
+---
+### 2.Install Dependencies
+~~~
 pip install -r requirements.txt
-3. Run the Streamlit App
+~~~
+---
+### 3. Run the Streamlit App
+~~~
 streamlit run app.py
+~~~
+---
 Your browser will automatically open to the live application.
 
 ### Key Enhancements:

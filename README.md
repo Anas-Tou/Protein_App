@@ -86,11 +86,3 @@ streamlit run app.py
 ~~~
 ---
 Your browser will automatically open to the live application.
-
-### Key Enhancements:
-- **Consistent Formatting:** Ensured consistent use of bold text for headings and important terms.
-- **Clarity and Readability:** Improved the structure and flow of the README for better readability.
-- **Completeness:** Added missing steps in the "How to Run the App Locally" section.
-- **Corrected Links:** Ensured that the GitHub repository link is correctly formatted and functional.
-
-This README should now be more informative, easier to read, and provide a clear guide for users to understand and run your project.
